@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # GRE Study/Review App
 GRE App, another resource to study for the GRE.
+=======
+# Project Title: GRE Study/Review App
+GRE App is another resource that you can use to study for the GRE.
+>>>>>>> 6d534ef2c8c563e3f4b52acf5e5d4232e249a873
 
 ## Getting Started - Local Development
 To start local development, please fork and clone the repo.
