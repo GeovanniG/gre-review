@@ -1,12 +1,11 @@
-# Project Title:
-GRE Study/Review App
-GRE App is another resource that you can use to study for the GRE.
+# GRE Study/Review App
+GRE App, another resource to study for the GRE.
 
 ## Getting Started - Local Development
 To start local development, please fork and clone the repo.
 
 ### Prerequisites:
-In order to run the app locally, [Node](https://nodejs.org/en/download/) will need to be installed on your system.
+To run the app locally, [Node](https://nodejs.org/en/download/) (which comes with [npm](https://www.npmjs.com/)) will need to be installed on your system.
 
 ### Setup:
 Navigate to the `backend` folder and type `npm install`. Similarly, navigate to the `client` folder and type `npm install`. While still in `client` directory, type `npm start`. The project should now be running on your local computer on port 3000 (or the next available port).
@@ -15,6 +14,11 @@ Navigate to the `backend` folder and type `npm install`. Similarly, navigate to 
 - Create-react-app
 - Bootstrap
 - Express
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Also have a look at our contributing guidelines: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Author:
 Geovanni Gonzalez
